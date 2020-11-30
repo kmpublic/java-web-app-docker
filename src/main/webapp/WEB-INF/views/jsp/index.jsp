@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<a class="btn btn-primary btn-lg" href="https://www.youtube.com/channel/UC-Jr307MbEREy8bG6McwD6w" role="button">Learn more</a>
 		</p>
 	</div>
 </div>
